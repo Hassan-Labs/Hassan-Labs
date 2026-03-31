@@ -1,16 +1,17 @@
-## Hi there 👋
+**Hey there! 👋**
 
-<!--
-**Hassan-Labs/Hassan-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm H͟a͟s͟s͟a͟n͟,a developer based in Syria.
 
-Here are some ideas to get you started:
+Currently learning backend development with <ins>C#</ins>, <ins>ADO.NET</ins>, and <ins>SQL Server</ins>, working toward becoming a full stack web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building a strong foundation and improving every day.
+
+Outside tech, I train at the gym and practice boxing.
+
+More projects coming soon.
+
+-------
+
+**Hobbies**
+
+- Gym & Coaching 🏋️‍♂️​
